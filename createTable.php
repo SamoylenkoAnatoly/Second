@@ -37,9 +37,6 @@ name="email" id="email"/></br>
 name="submit" value="Submit" />
 </form>
 <?php
-// PHP Data Objects(PDO) Sample Code:
-// PHP Data Objects(PDO) Sample Code:
-<?php
 // DB connection info
 $host = "localhost\sqlexpress";
 $user =  "vol1";
